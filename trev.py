@@ -9,7 +9,7 @@ import time, random, ast, sys, re, os, json, subprocess, threading, string, code
 from gtts import gTTS
 
 trev = Trevor.LINE()
-trev.login(token="Epu8MUAYeSEt0ZU1Rzs3.7mdLiCFg8AFj4jVcUWgviW.qgy05VbLv/AaqbQve2K72fO6pAMBQ1k/vVQiycbldRM=")
+trev.login(token="TOKEN LU YA CEWE PHP")
 trev.loginResult()
 print "===[Success Trev]==="
 
