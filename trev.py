@@ -271,14 +271,14 @@ def bot(op):
             elif msg.text in [frederick["trevor"]+"system"]:
                  md = ""
                  if wait["Autocancel"] == True: md+="Autocancel: KONTOL\n"
-                 else: md+="Autocancel: PEPEK \n"
+                 else: md+="AutoCancel: PEPEK \n"
                  if wait["pembaca"] == True: md+="Autoread: KONTOL\n"
                  else: md+="Autoread: PEPEK\n"
                  if wait["Qr"] == True: md+="Qr Protect: KONTOL\n"
                  else: md+="Qr Protect: PEPEK\n"
                  if wait["Autokick"] == True: md+="Autokick: KONTOL\n"
-                 else: md+="Autokick: PEPEK\n"
-                 if wait["Autojoin"] == True: md+="Autojoin: KONTOL\n"
+                 else: md+="AutoKick: PEPEK\n"
+                 if wait["AutoJoin"] == True: md+="Autojoin: KONTOL\n"
                  else: md+="Autojoin: PEPEK\n"
                  trev.sendText(msg.to,"SET NGENTOT\n\n"+md+"KALAU KONTOL BERARTI HIDUP\nKALAU PEPEK BERARTI MATI\n"+frederick["trevor"])
 #--------------------------------------------------------
