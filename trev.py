@@ -272,8 +272,6 @@ def bot(op):
                  md = ""
                  if wait["Autocancel"] == True: md+="Autocancel: KONTOL\n"
                  else: md+="AutoCancel: PEPEK \n"
-                 if wait["pembaca"] == True: md+="Autoread: KONTOL\n"
-                 else: md+="Autoread: PEPEK\n"
                  if wait["Qr"] == True: md+="Qr Protect: KONTOL\n"
                  else: md+="Qr Protect: PEPEK\n"
                  if wait["Autokick"] == True: md+="Autokick: KONTOL\n"
@@ -351,32 +349,6 @@ def bot(op):
                             trev.sendText(msg.to,"「􏿿Respond」\nALREADY SET: OFF")
 
 #--------------------------------------------------------
-            elif msg.text in [frederick["trevor"]+"autoread:on"]:
-                if msg.from_ in Mike:
-                    if wait["pembaca"] == True:
-                        if wait["lang"] == "JP":
-                            trev.sendText(msg.to,"AUTO READ\n SET: ON")
-                        else:
-                            trev.sendText(msg.to,"SET:ALREADY\n ON TREV")
-                    else:
-                        wait["pembaca"] = True
-                        if wait["lang"] == "JP":
-                            trev.sendText(msg.to,"AUTO READ\n SET: ON")
-                        else:
-                            trev.sendText(msg.to,"SET:ALREADY\n ON TREV")
-            elif msg.text in [frederick["trevor"]+"autoread:off"]:
-                if msg.from_ in Mike:
-                    if wait["pembaca"] == False:
-                        if wait["lang"] == "JP":
-                            trev.sendText(msg.to,"AUTO READ\n SET: OFF")
-                        else:
-                            trev.sendText(msg.to,"SET:ALREADY\n OFF TREV")
-                    else:
-                        wait["pembaca"] = False
-                        if wait["lang"] == "JP":
-                            trev.sendText(msg.to,"AUTO READ\n SET: OFF")
-                        else:
-                            trev.sendText(msg.to,"SET:ALREADY\n OFF TREV")
 	    elif msg.text in [frederick["trevor"]+"autocancel:on"]:
                 wait["AutoCancel"] = True
                 trev.sendText(msg.to,"The group of people and below decided to automatically refuse invitation")
