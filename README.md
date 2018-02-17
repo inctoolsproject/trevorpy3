@@ -112,3 +112,4 @@
 
 
 ▶️KALEM BOSKU!
+Contact: http://line.me/ti/p/OdcxbZg6gQ
