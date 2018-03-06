@@ -10,7 +10,7 @@ import time, random, ast, sys, re, os, json, subprocess, threading, string, code
 from gtts import gTTS
 
 trev = Trevor.LINE()
-trev.login(token="EqSoSzQU33mHj8ZwbEJ3.7mdLiCFg8AFj4jVcUWgviW.dKiqrWGfdydtLkTuFipRSmQcHw8ad53Z6RGDb84rz6c=")
+trev.login(token="")
 trev.loginResult()
 print "===[Success Trev]==="
 
