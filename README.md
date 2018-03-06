@@ -85,7 +85,25 @@
 
 
 
-▶️BUAT ZADD(panutanku), REZA, VIKY(yang ngidam ceue china homoannya juga sama saia kalo lagi gabut. Jones udah 3 tahun gan), SURYA, ARI, MOE, SAM, fajrinard(panutanku), KYU, ZERO, ALIN, TAN, LEO, RIDWAN(YANG GA JELAS KASIH KONTAK CEWE), BUAT DJODI HOMOAN, BUAT FERY YANG GEMAR SOOF, Bayu yang suka gangguin fery.. MAKASIH SEMUA!
+▶️BUAT ZADD(panutanku), REZA, VIKY(yang ngidam ceue china homoannya juga sama saia kalo lagi gabut. Jones udah 3 tahun gan), SURYA, ARI, MOE, SAM, fajrinard(panutanku)Sora, KYU, ALIN, TAN, LEO, RIDWAN(YANG GA JELAS KASIH KONTAK CEWE), BUAT DJODI HOMOAN, BUAT FERY YANG GEMAR SOOF, Bayu yang suka gangguin fery.. MAKASIH SEMUA!
+
+
+
+
+
+
+
+
+
+
+
+▶️SPECIAL THANKS TO TCR
+
+
+
+
+
+
 
 
 
