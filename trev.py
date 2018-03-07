@@ -119,7 +119,7 @@ class mikey():
                          "╠ gunakan [" + went + "] biar kerad" +"\n" + \
                          "╚══[ DEADLINE ]"
         
-        simemek =        "╔══[Media]" + "\n" + \
+        astroku =        "╔══[Media]" + "\n" + \
                          "╠ " + went + "music: " + "\n" + \
                          "╠ " + went + "ytube: " + "\n" + \
                          "╠ " + went + "geturl: " + "\n" + \
@@ -597,7 +597,7 @@ def bot(op):
             elif msg.text in wasit.gol + "media":
                 print "Media"
                 simike = mikey()
-                trev.sendText(msg.to, str(simike.simemek))
+                trev.sendText(msg.to, str(simike.astroku))
 
 	    elif msg.text in ["Self Like"]:
 		try:
