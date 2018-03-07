@@ -586,15 +586,15 @@ def bot(op):
                     else:
                         trev.sendText(msg.to,"Not for use less than group")
 #--------------------------------------------------------'
-            elif msg.text in ["help","Help"]:
+            elif msg.text in wasit.gol + "help":
                    print "Help"
                    simike = mikey()
                    trev.sendText(msg.to, str(simike.lili))
-            elif msg.text in ["set","Set"]:
+            elif msg.text in wasit.gol + "set":
                 print"Group"
                 simike = mikey()
                 trev.sendText(msg.to,str(simike.wentworth))
-            elif msg.text in ["media","Media"]:
+            elif msg.text in wasit.gol + "media":
                 print "Media"
                 simike = mikey()
                 trev.sendText(msg.to, str(simike.simemek))
